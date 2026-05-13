@@ -42,10 +42,15 @@ My personal portfolio site — built and hosted on GitHub Pages. Houses all proj
 
 
 | **AI** | Claude Pro (3+ months daily), Google AI Pro |
-| **Marketing** | Campaign Analytics, Social Media Strategy, Market Research, UTM Tracking |
+
+| **Marketing** | Campaign Analytics, Social Media Strategy, Market Research, UTM Tracking 
+
 | **Dev & Web** | GitHub, Cloudflare Workers, HTML/CSS, Website Hosting |
+
 | **Design** | Canva, PowerPoint, Pitch Decks |
+
 | **Data** | Excel (Certified), ROAS Modeling, KPI Frameworks |
+
 | **Languages** | English (Native), Spanish (Fluent) |
 
 
