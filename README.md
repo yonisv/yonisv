@@ -41,7 +41,7 @@ My personal portfolio site — built and hosted on GitHub Pages. Houses all proj
 ## 🛠 Skills & Tools
 
 
-| **AI** | Claude Pro (3+ months daily), Google AI Pro |
+| **AI** | Claude Pro (3+ months daily), Google AI Pro & Chat GPT (2+ Years) |
 
 | **Marketing** | Campaign Analytics, Social Media Strategy, Market Research, UTM Tracking 
 
